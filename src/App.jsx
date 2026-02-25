@@ -104,7 +104,7 @@ function App() {
 
       <div id="home" className="relative w-full h-screen">
         <DarkVeil warp={0.4} speed={1.2} />
-        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[1000px] flex flex-col items-center space-y-16">
+        <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[1000px] flex flex-col items-center space-y-8">
           <h1 className="text-6xl text-white font-bold uppercase">
             Your Perfect Ride Awaits
           </h1>
