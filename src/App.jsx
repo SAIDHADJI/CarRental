@@ -76,8 +76,6 @@ function App() {
           id="nav-bar"
           className="w-[600px] bg-white/5 flex justify-between items-center backdrop-blur-xl border border-white/20 px-8 py-4 rounded-full transition-all duration-300"
         >
-          <h1 className="text-xl text-white">CarRent</h1>
-
           <div id="nav-items" className="flex gap-4">
             {links.map((link) => {
               return (
